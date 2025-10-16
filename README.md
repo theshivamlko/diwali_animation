@@ -1,7 +1,10 @@
 # Diwali Animation
+A Mini project for Diwali Animation in Flutter code. Enjoy !!!
 
-A new Flutter project. ![Diwali animation](diwali_animation_flutter_code.gif) Image file: `diwali_animation_flutter_code.gif`
+ ![Diwali animation](diwali_animation_flutter_code.gif) 
 
+## Connect With Me
+[LinkTree](https://linktr.ee/theshivamlko)
 
 ## Getting Started
 
