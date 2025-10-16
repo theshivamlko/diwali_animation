@@ -1,6 +1,7 @@
-# diwali_animation
+# Diwali Animation
 
-A new Flutter project.
+A new Flutter project. ![Diwali animation](diwali_animation_flutter_code.gif) Image file: `diwali_animation_flutter_code.gif`
+
 
 ## Getting Started
 
